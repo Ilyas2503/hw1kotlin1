@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hw1 kotlin1</string>
+    <string name="введите">введите текст</string>
+    <string name="send">send</string>
+</resources>
